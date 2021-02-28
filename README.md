@@ -1,4 +1,4 @@
-### Stock_Market_Analysis
+# _Stock_Market_Analysis_
 
 # Challenge:
 - Working out a way to analyse three automobile giants namely Tesla, Ford and General Motors based on their pre historic stock prices and using different financial metrics and   check which company might have a higher return on investment based on their past data.
